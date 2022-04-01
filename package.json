@@ -1,0 +1,24 @@
+{
+   "name": "better-json-database",
+   "version": "1.0.0",
+   "description": "Improved version of easy-json-database.",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/louislegrain/better-json-database.git"
+   },
+   "keywords": [
+      "database",
+      "json"
+   ],
+   "author": "Louis Legrain",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/louislegrain/better-json-database/issues"
+   },
+   "homepage": "https://github.com/louislegrain/better-json-database#readme",
+   "typings": "./index.d.ts"
+}
